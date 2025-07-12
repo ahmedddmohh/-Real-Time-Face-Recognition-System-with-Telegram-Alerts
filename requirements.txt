@@ -1,0 +1,5 @@
+flask
+opencv-python
+numpy
+deepface
+scikit-learn
